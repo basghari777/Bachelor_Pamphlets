@@ -1,8 +1,8 @@
 # جزوه‌های من
 
-$$
-\boxed{\pi=\frac c d}
-$$
+
+
+{% math %}\int_{-\infty}^\infty g(x) dx{% endblock %}
 
 
 
