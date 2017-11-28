@@ -1,4 +1,7 @@
 {
      "direction": "rtl",
      "language": "fa"
+     "plugins": ["katex"]
 }
+
+
