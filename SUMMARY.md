@@ -3,6 +3,7 @@
 * [دیباچه](README.md)
 * [طراحی الگوریتم](algorithm/README.md)
 * [پایگاه داده](database/README.md)
+* [نهج‌البلاغه](nahj/README.md)
 * [تاریخ اسلام](histo/README.md)
     * [فصل اول](histo/part1.md)
     * [فصل دوم](histo/part2.md)
