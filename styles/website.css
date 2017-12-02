@@ -25,13 +25,13 @@ h3,
 h4,
 h5,
 h6,
-li,
 a,
 span {
     font-family: 'Vazir';
     direction: rtl;
     text-align: right
 }
+li,
 p {
     font-family: 'Vazir';
     direction: rtl;
