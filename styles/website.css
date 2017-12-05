@@ -25,8 +25,7 @@ h3,
 h4,
 h5,
 h6,
-a,
-span {
+a {
     font-family: 'Vazir';
     direction: rtl;
     text-align: right
@@ -49,6 +48,7 @@ input,
 .custom-link {
     text-align: left;
 }
-.katex {
+.katex,
+.katex-mathml {
     direction: ltr;
 }
