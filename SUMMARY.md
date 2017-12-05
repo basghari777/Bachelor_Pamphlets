@@ -2,7 +2,7 @@
 
 * [دیباچه](README.md)
 * [طراحی الگوریتم](algorithm/README.md)
-    * [بخش اول](part1.md)
+    * [بخش اول](algorithm/part1.md)
 * [پایگاه داده](database/README.md)
 * [ریاضی مهندسی](math/README.md)
     * [اعداد مختلط](math/part1.md)
