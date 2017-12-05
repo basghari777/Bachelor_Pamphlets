@@ -49,3 +49,6 @@ input,
 .custom-link {
     text-align: left;
 }
+.katex {
+    direction: ltr;
+}
