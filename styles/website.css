@@ -43,12 +43,9 @@ ul {
 ol {
     list-style-position: inside;
 }
-code,
-pre {
-    direction: ltr;
-    text-align: left;
-}
 input,
+pre,
+code,
 .gitbook-link,
 .custom-link {
     text-align: left;
