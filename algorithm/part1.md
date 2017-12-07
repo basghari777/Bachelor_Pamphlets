@@ -5,7 +5,7 @@
 
 **مثال:**
 
-<p style="text-align:left">$$ O(1) $$:</p>
+<p style="direction:ltr; text-align:left">$$ O(1) $$:</p>
 ```
 for(int i = 0; i < 5; i++)
     cout << i;
