@@ -12,14 +12,14 @@ for(int i = 0; i < 5; i++)
 ```
 <br/>
 
-$$ O(n) $$
+<p style="direction:ltr; text-align:left">$$ O(n) $$:</p>
 ```
 for(int i = 0; i < n; i++)
     cout << i;
 ```
 <br/>
 
-$$ O(\log_{2} n) $$
+<p style="direction:ltr; text-align:left">$$ O(\log_{2} n) $$:</p>
 ```
 int i = n;
 while(i >= 1)
@@ -30,7 +30,7 @@ while(i >= 1)
 ```
 <br/>
 
-$$ O(n\log_{2} n) $$
+<p style="direction:ltr; text-align:left">$$ O(n\log_{2} n) $$:</p>
 ```
 for(int i = 0; i < n; i++)
 {
@@ -44,7 +44,7 @@ for(int i = 0; i < n; i++)
 ```
 <br/>
 
-$$ O(n^2) $$
+<p style="direction:ltr; text-align:left">$$ O(n^2) $$:</p>
 ```
 for(int i = 0; i < n; i++)      // O(n)
     for(int j = 2; j < n; j++)  // O(n)
