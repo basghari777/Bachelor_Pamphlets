@@ -48,9 +48,9 @@ for(int i = 0; i < n; i++)
 
 $$ O(n^2) $$
 ```
-for(int i = 0; i < n; i++)      // $$ O(n) $$
-    for(int j = 2; j < n; j++)  // $$ O(n) $$
-        cout << i * j;          // $$ O(n^2) $$
+for(int i = 0; i < n; i++)      // O(n)
+    for(int j = 2; j < n; j++)  // O(n)
+        cout << i * j;          // O(n) * O(n) = O(n^2)
 ```
 #### تابع بازگشتی
 **مثال:** مقدار f(5) را بدست آورید.

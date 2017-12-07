@@ -28,7 +28,7 @@ h6,
 a {
     font-family: 'Vazir';
     direction: rtl;
-    text-align: right
+    text-align: right;
 }
 li,
 p {
@@ -42,6 +42,10 @@ ul {
 }
 ol {
     list-style-position: inside;
+}
+code {
+    direction: ltr;
+    text-align: left;
 }
 input,
 .gitbook-link,
