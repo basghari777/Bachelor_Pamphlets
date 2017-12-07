@@ -46,7 +46,7 @@ for(int i = 0; i < n; i++)
 ```
 <br/>
 
-$$ O(n^2) $$
+$$ O(n^{2}) $$
 ```
 for(int i = 0; i < n; i++)      // O(n) 
     for(int j = 2; j < n; j++)  // O(n)
