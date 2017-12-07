@@ -4,7 +4,7 @@
 <br/>
 
 #### فهرست:
-* [مرتبه زمانی](algorithm/part1.html)
-* [تقسیم و حل](algorithm/part2.html)
-* [روش حریصانه](algorithm/part3.html)
-* [برنامه نویسی پویا](algorithm/part4.html)
+* [مرتبه زمانی](part1.html)
+* [تقسیم و حل](part2.html)
+* [روش حریصانه](part3.html)
+* [برنامه نویسی پویا](part4.html)
