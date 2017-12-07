@@ -2,7 +2,10 @@
 
 * [دیباچه](README.md)
 * [طراحی الگوریتم](algorithm/README.md)
-    * [بخش اول](algorithm/part1.md)
+    * [مرتبه زمانی](algorithm/part1.md)
+    * [تقسیم و حل](algorithm/part2.md)
+    * [روش حریصانه](algorithm/part3.md)
+    * [برنامه نویسی پویا](algorithm/part4.md)
 * [پایگاه داده](database/README.md)
 * [ریاضی مهندسی](math/README.md)
     * [اعداد مختلط](math/part1.md)
