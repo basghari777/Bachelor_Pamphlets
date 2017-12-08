@@ -1,8 +1,8 @@
 **مثال:**
 
 <p style="direction:ltr; text-align:left">
-t(n) = t(n - 1) + n | n > 1 <br/>
-t(n) = 1 | n = 1
+t(n) = t(n - 1) + n , n > 1 <br/>
+t(n) = 1 , n = 1
 </p>
 
 حل:
@@ -11,7 +11,7 @@ t(n) = 1 | n = 1
 t(n) = t(n - 1) + n <br/>
 t(n) = t(n - 2) + (n - 1) + n <br/>
 t(n) = t(n - 3) + (n - 2) + (n - 1) + n <br/>
-$ \vdots $ <br/>
+$$ \vdots $$ <br/>
 <br/>
 t(2) = t(1) + 2 <br/>
 t(1) = 1 <br/>
