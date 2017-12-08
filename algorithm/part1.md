@@ -122,7 +122,10 @@ for(int i = 0; i < n; i++){     // (n+1)
 
 **مثال:**
 
+<p style="direction:ltr; text-align:left">$$ t(n) = t(n - 1) + n  $$ , $$ n > 1 $$</p>
+<p style="direction:ltr; text-align:left">$$ t(n) = 1 $$ , $$ n = 1 $$</p>
 
+حل:
 
 #### تمرین:
 ##### 1. مرتبه زمانی و مقدار $$ f(5) $$ را بدست آورید.
