@@ -1,9 +1,9 @@
 **مثال:**
 
-<p style="direction:ltr; text-align:left">
+<div style="text-align:left">
 t(n) = t(n - 1) + n , n > 1 <br/>
 t(n) = 1 , n = 1
-</p>
+</div>
 
 حل:
 
