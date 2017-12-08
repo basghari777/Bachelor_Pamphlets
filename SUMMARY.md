@@ -1,6 +1,6 @@
 ﻿# Summary
 
-* [دیباچه](README.md)
+* [درباره این جزوه](README.md)
 * [طراحی الگوریتم](algorithm/README.md)
     * [مرتبه زمانی](algorithm/part1.md)
     * [تقسیم و حل](algorithm/part2.md)
