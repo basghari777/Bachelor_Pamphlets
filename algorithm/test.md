@@ -1,7 +1,7 @@
 **مثال:**
 
-<p style="direction:ltr; text-align:left">$$ t(n) = t(n - 1) + n  $$ , $$ n > 1 $$</p>
-<p style="direction:ltr; text-align:left">$$ t(n) = 1 $$ , $$ n = 1 $$</p>
+<p style="direction:ltr; text-align:left">$$ t(n) = t(n - 1) + n | n > 1 $$</p>
+<p style="direction:ltr; text-align:left">$$ t(n) = 1 | n = 1 $$</p>
 
 حل:
 
@@ -9,6 +9,7 @@
 <p style="direction:ltr; text-align:left">$$ t(n) = t(n - 2) + (n - 1) + n $$</p>
 <p style="direction:ltr; text-align:left">$$ t(n) = t(n - 3) + (n - 2) + (n - 1) + n $$</p>
 <p style="direction:ltr; text-align:left">$$ \vdots $$</p>
+<br/>
 <p style="direction:ltr; text-align:left">$$ t(2) = t(1) + 2 $$</p>
 <p style="direction:ltr; text-align:left">$$ t(1) = 1 $$</p>
 <br/>
