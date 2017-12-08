@@ -122,10 +122,10 @@ for(int i = 0; i < n; i++){     // (n+1)
 
 **مثال:**
 
-$$ \begin{cases}
-t(n) = t(n - 1) + n & n > 1
+$$ \begin{aligned}
+t(n) = t(n - 1) + n & n > 1\\
 t(n) = 1 & n = 1
-\end{cases} $$
+\end{aligned} $$
 
 حل:
 
