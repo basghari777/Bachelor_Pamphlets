@@ -6,6 +6,7 @@
     * [تقسیم و حل](algorithm/part2.md)
     * [روش حریصانه](algorithm/part3.md)
     * [برنامه نویسی پویا](algorithm/part4.md)
+    * [تست](algorithm/test.md)
 * [پایگاه داده](database/README.md)
 * [ریاضی مهندسی](math/README.md)
     * [اعداد مختلط](math/part1.md)
