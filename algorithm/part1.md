@@ -136,7 +136,7 @@ for(int i = 0; i < n; i++){     // (n+1)
 <p style="direction:ltr; text-align:left">$$ t(1) = 1 $$</p>
 <br/>
 <p style="direction:ltr; text-align:left">$$ t(n) = 1 + 2 + 3 + \cdots + (n - 1) + n $$</p>
-<p style="direction:ltr; text-align:left">$$ t(n) = \sum_{i = 1}^{n} i = \frac{n(n + 1)}{2} \Rightarrow O(n^2)  
+<p style="direction:ltr; text-align:left">$$ t(n) = \sum_{i = 1}^{n} i = \frac{n(n + 1)}{2} \Rightarrow O(n^2) $$</p>
 
 #### تمرین:
 ##### 1. مرتبه زمانی و مقدار $$ f(5) $$ را بدست آورید.
