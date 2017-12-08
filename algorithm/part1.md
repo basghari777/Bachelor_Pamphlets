@@ -51,7 +51,7 @@ for(int i = 0; i < n; i++)      // O(n)
         cout << i * j;          // O(n) * O(n) = O(n^2)
 ```
 #### تابع بازگشتی
-**مثال:** مقدار <span style="direction:ltr"> f(5) </span> را بدست آورید.
+**مثال:** مقدار $$ f(5) $$ را بدست آورید.
 ```
 int f(int n)
 {
@@ -139,7 +139,7 @@ t(2) = t(1) + 2 <br/>
 t(1) = 1 <br/>
 <br/>
 t(n) = 1 + 2 + 3 + $$ \cdots $$ + (n - 1) + n <br/>
-t(n) = $$ \sum_{i = 1}^{n} i = \frac{n(n + 1)}{2} \Rightarrow O(n^2) $$ <br/>
+t(n) = $$ \sum_{i = 1}^{n} i = \frac{n(n + 1)}{2} $$ O(n^2) <br/>
 </div>
 
 #### تمرین:
