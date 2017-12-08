@@ -1,20 +1,24 @@
 **مثال:**
 
-<p style="direction:ltr; text-align:left">$$ t(n) = t(n - 1) + n | n > 1 $$</p>
-<p style="direction:ltr; text-align:left">$$ t(n) = 1 | n = 1 $$</p>
+<p style="direction:ltr; text-align:left">
+t(n) = t(n - 1) + n | n > 1 <br/>
+t(n) = 1 | n = 1
+</p>
 
 حل:
 
-<p style="direction:ltr; text-align:left">$$ t(n) = t(n - 1) + n $$</p>
-<p style="direction:ltr; text-align:left">$$ t(n) = t(n - 2) + (n - 1) + n $$</p>
-<p style="direction:ltr; text-align:left">$$ t(n) = t(n - 3) + (n - 2) + (n - 1) + n $$</p>
-<p style="direction:ltr; text-align:left">$$ \vdots $$</p>
+<p style="direction:ltr; text-align:left">
+t(n) = t(n - 1) + n <br/>
+t(n) = t(n - 2) + (n - 1) + n <br/>
+t(n) = t(n - 3) + (n - 2) + (n - 1) + n <br/>
+$ \vdots $ <br/>
 <br/>
-<p style="direction:ltr; text-align:left">$$ t(2) = t(1) + 2 $$</p>
-<p style="direction:ltr; text-align:left">$$ t(1) = 1 $$</p>
+t(2) = t(1) + 2 <br/>
+t(1) = 1 <br/>
 <br/>
-<p style="direction:ltr; text-align:left">$$ t(n) = 1 + 2 + 3 + \cdots + (n - 1) + n $$</p>
-<p style="direction:ltr; text-align:left">$$ t(n) = \sum_{i = 1}^{n} i = \frac{n(n + 1)}{2} \Rightarrow O(n^2) $$</p>
+t(n) = 1 + 2 + 3 + $$ \cdots $$ + (n - 1) + n <br/>
+t(n) = $$ \sum_{i = 1}^{n} i = \frac{n(n + 1)}{2} \Rightarrow O(n^2) $$ <br/>
+</p>
 
 #### تمرین:
 ##### 1. مرتبه زمانی و مقدار $$ f(5) $$ را بدست آورید.
