@@ -14,13 +14,13 @@
 
 **مثال:**
 
-<p style="direction:ltr">x = 37</p>
+<p style="text-align:left">x = 37</p>
 ```
  7 , 9 , 11 , 13 , 18 , 24 , 31 , 37
 --- --- ---- ---- ---- ---- ---- ---
  0   1   2    3    4    5    6    7
 ```
-<div style="direction:ltr">
+<div style="text-align:left">
 $$ l = 0 ; h = 7 $$<br/>
 $$ mid = [(l + h)/2] = [(0+7)/2] = 3 $$
 </div>
