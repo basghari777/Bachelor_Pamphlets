@@ -14,6 +14,8 @@
 
 **مثال:**
 
+![201](/algorithm/images/201.svg)
+
 <p style="text-align:left">x = 37</p>
 ```
  7 , 9 , 11 , 13 , 18 , 24 , 31 , 37
