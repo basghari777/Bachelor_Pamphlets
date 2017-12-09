@@ -71,9 +71,12 @@ $$ x=6 $$
 <div style="text-align:left">
 $$ m=5 \Rightarrow m=2 \Rightarrow m=3 $$
 </div>
+
 جواب مسئله بالا با استفاده از روش درختی و محاسبه میانگین جستجوی موفق و ناموفق در یک لیست:
 
+
 ![202](/algorithm/images/202.svg)
+
 
 میانگین جستجوی موفق:
 <div style="text-align:left">
