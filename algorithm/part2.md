@@ -65,12 +65,16 @@ $$ mid = [(7+7)/2] = 7 $$
 <div style="text-align:left">
 $$ x=6 $$
 </div>
+
 ![201](/algorithm/images/201.svg)
+
 <div style="text-align:left">
 $$ m=5 \Rightarrow m=2 \Rightarrow m=3 $$
 </div>
 جواب مسئله بالا با استفاده از روش درختی و محاسبه میانگین جستجوی موفق و ناموفق در یک لیست:
+
 ![202](/algorithm/images/202.svg)
+
 میانگین جستجوی موفق:
 <div style="text-align:left">
 $$ \frac{1+(2*2)+(4*3)+(4*4)}{11}=\frac{33}{11}=3 $$
