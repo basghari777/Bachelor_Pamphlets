@@ -22,7 +22,7 @@
 ```
 <div style="direction:ltr">
 $$ l = 0 ; h = 7 $$<br/>
-$$ mid = \floor{(l + h)/2} = \floor{(0+7)/2} = 3 $$
+$$ mid = \floor{(l + h)/2} = \floor{\lfloor}{\rfloor}{(0+7)/2} = 3 $$
 </div>
 
 
