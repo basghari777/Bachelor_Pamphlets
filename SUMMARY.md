@@ -14,6 +14,7 @@
     * [ترکیبیات](discrete_math/part1.md)
     * [توابع مولد](discrete_math/part2.md)
 * [مهارت مسئله‌یابی و تصمیم گیری](decision_making/README.md)
+    * [بخش اول](decision_making/part1.md)
 * [نهج‌البلاغه](nahj/README.md)
     * [پرسش‌های میان‌ترم](nahj/midterm.md)
     * [پرسش‌های پایان‌ترم](nahj/final.md)
