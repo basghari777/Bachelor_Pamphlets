@@ -56,6 +56,6 @@
 <text transform="matrix(1 0 0 1 74.1104 56.93)" class="st1 st2 st6">2</text>
 <text transform="matrix(1 0 0 1 92.46 52.93)" class="st1 st2 st4">m</text>
 <text transform="matrix(1 0 0 1 102.46 56.93)" class="st1 st2 st6">3</text>
-<circle class="st1" cx="-84.5" cy="28.8" r="0.5"/>
-<circle class="st1" cx="397.4" cy="28.8" r="0.5"/>
+<circle class="st1" cx="-85" cy="28.3" r="0"/>
+<circle class="st1" cx="398.3" cy="29.7" r="1.4"/>
 </svg>
