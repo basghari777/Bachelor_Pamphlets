@@ -10,9 +10,9 @@
 
 |ترجیحات یا قضاوت شفاهی|معادل انگلیسی|مقدار عددی|
 |:---:|:---:|:---:|
-|9|Extremely Prefered|کاملاً مطلوبتر|
-|7|Very Strongly Prefered|مطلوبیت خیلی قوی‌تر|
-|5|Strongly Prefered|مطلوبیت قوی‌تر|
-|3|Moderately Prefered|کمی مطلوب‌تر|
-|2|Equally Prefered|مطلوبیت یکسان|
-|2, 4, 6, 8||مطلوبیت بین فواصل فوق (نسبتاً)|
+|کاملاً مطلوبتر|Extremely Prefered|9|
+|مطلوبیت خیلی قوی‌تر|Very Strongly Prefered|7|
+|مطلوبیت قوی‌تر|Strongly Prefered|5|
+|کمی مطلوب‌تر|Moderately Prefered|3|
+|مطلوبیت یکسان|Equally Prefered|1|
+|مطلوبیت بین فواصل فوق (نسبتاً)||2, 4, 6, 8|
