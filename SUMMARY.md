@@ -7,6 +7,7 @@
     * [روش حریصانه](algorithm/part3.md)
     * [برنامه نویسی پویا](algorithm/part4.md)
 * [پایگاه داده](database/README.md)
+    * [بخش اول](database/part1.md)
 * [ریاضی مهندسی](math/README.md)
     * [اعداد مختلط](math/part1.md)
     * [سری‌های فوریه](math/part2.md)
@@ -22,3 +23,4 @@
 * [تاریخ اسلام](histo/README.md)
     * [فصل اول](histo/part1.md)
     * [فصل دوم](histo/part2.md)
+    * [فصل سوم](histo/part3.md)
