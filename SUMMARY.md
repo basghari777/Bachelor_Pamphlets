@@ -15,6 +15,7 @@
 * [ریاضی گسسته](discrete_math/README.md)
     * [ترکیبیات](discrete_math/part1.md)
     * [توابع مولد](discrete_math/part2.md)
+    * [رابطه‌های بازگشتی](discrete_math/part3.md)
 * [مهارت مسئله‌یابی و تصمیم گیری](decision_making/README.md)
     * [AHP](decision_making/part1.md)
 * [نهج‌البلاغه](nahj/README.md)
