@@ -3,6 +3,8 @@
 * [درباره این جزوه](README.md)
 * [مدیریت فناوری اطلاعات](itm/README.md)
     * [مبانی و مفاهیم](itm/part1.md)
+* [کنترل پروژه](prjctrl/README.md)
+    * [بخش اول](prjctrl/part1)
 * [طراحی الگوریتم](algorithm/README.md)
     * [مرتبه زمانی](algorithm/part1.md)
     * [تقسیم و حل](algorithm/part2.md)
