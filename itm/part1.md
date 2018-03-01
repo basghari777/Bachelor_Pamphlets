@@ -34,16 +34,15 @@
 - علاقه شخصی
 - موفقیت قابل قبول در بازار
 
-<div class="eng">
-<h4>SMART is an acronym which stands for</h4>
-<ul>
-<li>Specific (simple, sensible, significant)</li>
-<li>Measurable (meaningful, motivating)</li>
-<li>Achievable (agreed, attainable)</li>
-<li>Relevant (reasonable, realistic and resourced, results-based)</li>
-<li>Time bound (time-based, time limited, time/cost limited, timely, time-sensitive)</li>
-</ul>
-</div>
+```markdown
+SMART is an acronym which stands for
+
+S - Specific (simple, sensible, significant)
+M - Measurable (meaningful, motivating)
+A - Achievable (agreed, attainable)
+R - Relevant (reasonable, realistic and resourced, results-based)
+T - Time bound (time-based, time limited, time/cost limited, timely, time-sensitive)
+```
 
 ما باید در __خلق__ فرصت‌ها __آزادانه__ فکر کنیم، اما در __ارزشیابی__ فرصت‌ها باید __محدودیت‌ها__ را در نظر بگیریم.
 
