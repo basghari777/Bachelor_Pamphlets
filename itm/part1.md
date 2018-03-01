@@ -34,7 +34,7 @@
 - علاقه شخصی
 - موفقیت قابل قبول در بازار
 
-```
+<div class="eng">
 #### SMART is an acronym which stands for
 
 - Specific (simple, sensible, significant)
@@ -42,7 +42,7 @@
 - Achievable (agreed, attainable)
 - Relevant (reasonable, realistic and resourced, results-based)
 - Time bound (time-based, time limited, time/cost limited, timely, time-sensitive)
-```
+</div>
 
 ما باید در __خلق__ فرصت‌ها __آزادانه__ فکر کنیم، اما در __ارزشیابی__ فرصت‌ها باید __محدودیت‌ها__ را در نظر بگیریم.
 

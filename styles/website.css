@@ -54,3 +54,8 @@ input,
 .katex-mathml {
     direction: ltr;
 }
+
+.eng {
+    text-align: left;
+    direction: ltr;
+}
