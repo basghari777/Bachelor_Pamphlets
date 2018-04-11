@@ -6,6 +6,7 @@
 * [کنترل پروژه](prjctrl/README.md)
     * [جلسه اول](prjctrl/part1.md)
     * [جلسه دوم](prjctrl/part2.md)
+    * [جلسه سوم](prjctrl/part3.md)
 * [طراحی الگوریتم](algorithm/README.md)
     * [مرتبه زمانی](algorithm/part1.md)
     * [تقسیم و حل](algorithm/part2.md)
