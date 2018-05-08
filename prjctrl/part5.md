@@ -24,7 +24,7 @@
 $$ 1. E_1 = 0 $$<br/><br/>
 $$ 2. ES_ij = E_i $$<br/>
 $$ EF_ij = E_i + D_ij $$<br/><br/>
-$$ 3. E_i = Max{EF_ij | Incomming arrows}
+$$ 3. E_i = Max{EF_ij | Incomming arrows} $$
 </div>
 
 مثال) مسیر پیشرو را برای تصویر زیر انجام دهید.
@@ -42,7 +42,7 @@ $$ 3. E_i = Max{EF_ij | Incomming arrows}
 $$ 1. L_last = E_last $$<br/><br/>
 $$ 2. LF_ij = L_j $$<br/>
 $$ LS_ij = L_j - D_ij $$<br/><br/>
-$$ 3. L_i = min{LS_ij | Outgoing arrows}
+$$ 3. L_i = min{LS_ij | Outgoing arrows} $$
 </div>
 
 مثال) مسیر پسرو را برای تصویر زیر انجام دهید.
