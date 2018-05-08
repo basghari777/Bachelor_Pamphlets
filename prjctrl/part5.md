@@ -22,9 +22,9 @@
 
 <div style="text-align:left">
 $$ 1. E_1 = 0 $$<br/><br/>
-$$ 2. ES_i_j = E_i $$<br/>
-$$ EF_i_j = E_i + D_i_j $$<br/><br/>
-$$ 3. E_i = Max(EF_i_j | Incomming arrows) $$
+$$ 2. ES_i _j = E_i $$<br/>
+$$ EF_i _j = E_i + D_i _j $$<br/><br/>
+$$ 3. E_i = Max(EF_i _j | Incomming arrows) $$
 </div>
 
 مثال) مسیر پیشرو را برای تصویر زیر انجام دهید.
@@ -39,10 +39,10 @@ $$ 3. E_i = Max(EF_i_j | Incomming arrows) $$
 برای بدست آوردن __مسیر بحرانی__ در شبکه‌های AOA از __الگوریتم مسیر پسرو__ استفاده می‌کنیم. در این محاسبات از گره آخر به سمت گره اول می‌رویم.
 
 <div style="text-align:left">
-$$ 1. L_l_a_s_t = E_l_a_s_t $$<br/><br/>
-$$ 2. LF_i_j = L_j $$<br/>
-$$ LS_i_j = L_j - D_i_j $$<br/><br/>
-$$ 3. L_i = min(LS_i_j | Outgoing arrows) $$
+$$ 1. L_l = E_l $$<br/><br/>
+$$ 2. LF_i _j = L_j $$<br/>
+$$ LS_i _j = L_j - D_i _j $$<br/><br/>
+$$ 3. L_i = min(LS_i _j | Outgoing arrows) $$
 </div>
 
 مثال) مسیر پسرو را برای تصویر زیر انجام دهید.
