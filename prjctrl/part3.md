@@ -21,9 +21,11 @@
 
 نمودارهای شبکه ابزار قدرتمندی می‌باشند که برای رسمشان نیاز به دانستن زمان نمی‌باشد و به دو صورت زیر می‌باشند.
 
+<div style="text-align:left">
 `AON (Activity On Node)`
-
+<br/><br/>
 `AOA (Activity On Arrow)`
+</div>
 
 ### شبکه AON
 
